@@ -3,14 +3,14 @@ import { useState } from 'react';
 import DateTimePicker from '@react-native-community/datetimepicker';
 import { Feather } from '@expo/vector-icons';
 
-export default function SearchForm() {
+export default function SearchForm({ onSearch }) {
   const [from, setFrom] = useState('');
   const [to, setTo] = useState('');
   const [departDate, setDepartDate] = useState(new Date());
   const [returnDate, setReturnDate] = useState(new Date());
 
   const onSearchPress = () => {
-    console.warn({ from, to, departDate, returnDate });
+    onSearch({ from, to, departDate, returnDate });
   };
 
   return (
