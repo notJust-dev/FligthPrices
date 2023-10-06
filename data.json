@@ -1,0 +1,167 @@
+[
+  {
+    "price": "£118",
+    "to": {
+      "airline": "Iberia Express",
+      "departAt": "06:50",
+      "arriveAt": "10:40",
+      "duration": "2h 50"
+    },
+    "from": {
+      "airline": "Ryanair",
+      "departAt": "06:05",
+      "arriveAt": "08:15",
+      "duration": "3h 10"
+    }
+  },
+  {
+    "price": "£142",
+    "to": {
+      "airline": "Ryanair",
+      "departAt": "20:10",
+      "arriveAt": "23:59",
+      "duration": "2h 49"
+    },
+    "from": {
+      "airline": "Ryanair",
+      "departAt": "06:05",
+      "arriveAt": "08:15",
+      "duration": "3h 10"
+    }
+  },
+  {
+    "price": "£140",
+    "to": {
+      "airline": "Iberia",
+      "departAt": "06:50",
+      "arriveAt": "10:40",
+      "duration": "2h 50"
+    },
+    "from": {
+      "airline": "Ryanair",
+      "departAt": "06:05",
+      "arriveAt": "08:15",
+      "duration": "3h 10"
+    }
+  },
+  {
+    "price": "£329",
+    "to": {
+      "airline": "Iberia Express",
+      "departAt": "06:50",
+      "arriveAt": "10:40",
+      "duration": "2h 50"
+    },
+    "from": {
+      "airline": "Iberia Express",
+      "departAt": "23:30",
+      "arriveAt": "01:35+1",
+      "duration": "3h 05"
+    }
+  },
+  {
+    "price": "£366",
+    "to": {
+      "airline": "Iberia Express",
+      "departAt": "06:50",
+      "arriveAt": "10:40",
+      "duration": "2h 50"
+    },
+    "from": {
+      "airline": "Iberia Express",
+      "departAt": "11:25",
+      "arriveAt": "13:35",
+      "duration": "3h 10"
+    }
+  },
+  {
+    "price": "£346",
+    "to": {
+      "airline": "Iberia",
+      "departAt": "06:50",
+      "arriveAt": "10:40",
+      "duration": "2h 50"
+    },
+    "from": {
+      "airline": "Iberia",
+      "departAt": "23:30",
+      "arriveAt": "01:35+1",
+      "duration": "3h 05"
+    }
+  },
+  {
+    "price": "£233",
+    "to": {
+      "airline": "Vueling Airlines",
+      "departAt": "06:50",
+      "arriveAt": "10:40",
+      "duration": "2h 50"
+    },
+    "from": {
+      "airline": "Ryanair",
+      "departAt": "06:05",
+      "arriveAt": "08:15",
+      "duration": "3h 10"
+    }
+  },
+  {
+    "price": "£385",
+    "to": {
+      "airline": "Iberia",
+      "departAt": "06:50",
+      "arriveAt": "10:40",
+      "duration": "2h 50"
+    },
+    "from": {
+      "airline": "Iberia",
+      "departAt": "11:25",
+      "arriveAt": "13:35",
+      "duration": "3h 10"
+    }
+  },
+  {
+    "price": "£259",
+    "to": {
+      "airline": "Iberia Express",
+      "departAt": "14:20",
+      "arriveAt": "18:15",
+      "duration": "2h 55"
+    },
+    "from": {
+      "airline": "Ryanair",
+      "departAt": "06:05",
+      "arriveAt": "08:15",
+      "duration": "3h 10"
+    }
+  },
+  {
+    "price": "£276",
+    "to": {
+      "airline": "Iberia",
+      "departAt": "14:20",
+      "arriveAt": "18:15",
+      "duration": "2h 55"
+    },
+    "from": {
+      "airline": "Ryanair",
+      "departAt": "06:05",
+      "arriveAt": "08:15",
+      "duration": "3h 10"
+    }
+  },
+  {
+    "price": "£195",
+    "to": {
+      "airline": "Ryanair",
+      "departAt": "20:10",
+      "arriveAt": "23:59",
+      "duration": "2h 49"
+    },
+    "from": {
+      "airline": "Ryanair + Binter Canarias",
+      "departAt": "06:15",
+      "arriveAt": "10:20",
+      "duration": "5h 05"
+    }
+  }
+]
